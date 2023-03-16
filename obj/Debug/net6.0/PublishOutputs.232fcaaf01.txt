@@ -1,0 +1,11 @@
+/var/www/app1/DemoAPI
+/var/www/app1/appsettings.Development.json
+/var/www/app1/appsettings.json
+/var/www/app1/DemoAPI.dll
+/var/www/app1/DemoAPI.deps.json
+/var/www/app1/DemoAPI.runtimeconfig.json
+/var/www/app1/DemoAPI.pdb
+/var/www/app1/Microsoft.OpenApi.dll
+/var/www/app1/Swashbuckle.AspNetCore.Swagger.dll
+/var/www/app1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/var/www/app1/Swashbuckle.AspNetCore.SwaggerUI.dll
